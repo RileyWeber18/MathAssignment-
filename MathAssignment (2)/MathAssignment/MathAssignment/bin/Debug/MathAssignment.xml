@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MathAssignment</name>
+    </assembly>
+    <members>
+        <member name="F:MathAssignment.Instructor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MathAssignment.Instructor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MathAssignment.Instructor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MathAssignment.MathQues.leftOperand">
+            <summary>
+            These are private data fields for a single math question
+            </summary>
+        </member>
+        <member name="P:MathAssignment.MathQues.LeftOperand">
+            <summary>
+             public properties (provide public get() and set() methods for private instance data)
+            </summary>
+        </member>
+        <member name="M:MathAssignment.MathQues.#ctor(System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+             This is is the constructor method this is called when the object of the class is created
+            </summary>
+            <param name="leftOperand"></param>
+            <param name="mathOp"></param>
+            <param name="rightOperand"></param>
+            <param name="answer"></param>
+        </member>
+        <member name="M:MathAssignment.MathQues.CompareTo(MathAssignment.MathQues)">
+            <summary>
+            This is a public compareTo method from the IComparable interface.
+            This compares the answer of (this) object with that of the input otherMathObj answer
+            This returns 3 values 0 if both answers are the same
+            -1 if 'This' object is numerically less than the otherMathObj answer
+            1  if 'This' object is numerically greater than the otherMathObj answer
+            </summary>
+            <param name="otherQues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MathAssignment.MathQues.GetTableArray">
+            <summary>
+            Sets up the data grid view in the format of the first, number the mathOp, the second number, the equals sign and the answer of the math question
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MathAssignment.MathQues.ToString">
+            <summary>
+            ToString, this method is an overide method to display all data for the instance 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MathAssignment.MathQues.QuestionToSend">
+            <summary>
+            public string method that returns LeftOperand + " " + MathOp + " " + RightOperand + " = " + Answer; 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MathAssignment.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:MathAssignment.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MathAssignment.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MathAssignment.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

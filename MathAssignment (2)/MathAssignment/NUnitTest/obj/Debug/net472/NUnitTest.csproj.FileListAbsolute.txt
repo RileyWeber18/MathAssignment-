@@ -1,0 +1,15 @@
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\NUnit3.TestAdapter.dll
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\NUnit3.TestAdapter.pdb
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\nunit.engine.dll
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\nunit.engine.api.dll
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\NUnitTest.dll
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\NUnitTest.pdb
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Visual studio\MathAssignment\NUnitTest\bin\Debug\net472\nunit.framework.dll
+E:\Visual studio\MathAssignment\NUnitTest\obj\Debug\net472\NUnitTest.csproj.AssemblyReference.cache
+E:\Visual studio\MathAssignment\NUnitTest\obj\Debug\net472\NUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\MathAssignment\NUnitTest\obj\Debug\net472\NUnitTest.AssemblyInfoInputs.cache
+E:\Visual studio\MathAssignment\NUnitTest\obj\Debug\net472\NUnitTest.AssemblyInfo.cs
+E:\Visual studio\MathAssignment\NUnitTest\obj\Debug\net472\NUnitTest.csproj.CoreCompileInputs.cache
+E:\Visual studio\MathAssignment\NUnitTest\obj\Debug\net472\NUnitTest.dll
+E:\Visual studio\MathAssignment\NUnitTest\obj\Debug\net472\NUnitTest.pdb

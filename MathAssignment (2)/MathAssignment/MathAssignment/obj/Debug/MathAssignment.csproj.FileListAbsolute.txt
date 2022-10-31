@@ -1,0 +1,32 @@
+E:\Visual studio\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe.config
+E:\Visual studio\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe
+E:\Visual studio\MathAssignment\MathAssignment\bin\Debug\MathAssignment.pdb
+E:\Visual studio\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.AssemblyReference.cache
+E:\Visual studio\MathAssignment\MathAssignment\obj\Debug\MathAssignment.Instructor.resources
+E:\Visual studio\MathAssignment\MathAssignment\obj\Debug\MathAssignment.Properties.Resources.resources
+E:\Visual studio\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.GenerateResource.cache
+E:\Visual studio\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.CoreCompileInputs.cache
+E:\Visual studio\MathAssignment\MathAssignment\obj\Debug\MathAssignment.exe
+E:\Visual studio\MathAssignment\MathAssignment\obj\Debug\MathAssignment.pdb
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe.config
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\bin\Debug\MathAssignment.pdb
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.AssemblyReference.cache
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\obj\Debug\MathAssignment.Instructor.resources
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\obj\Debug\MathAssignment.Properties.Resources.resources
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.GenerateResource.cache
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\obj\Debug\MathAssignment.exe
+C:\Users\IT Student\Desktop\MathAssignment\MathAssignment\obj\Debug\MathAssignment.pdb
+E:\Visual studio\MathAssignment\MathAssignment\bin\Debug\MathAssignment.xml
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe.config
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\bin\Debug\MathAssignment.xml
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\bin\Debug\MathAssignment.pdb
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.AssemblyReference.cache
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\obj\Debug\MathAssignment.Instructor.resources
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\obj\Debug\MathAssignment.Properties.Resources.resources
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.GenerateResource.cache
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.CoreCompileInputs.cache
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\obj\Debug\MathAssignment.exe
+E:\Visual studio\MathAssignment (2)\MathAssignment\MathAssignment\obj\Debug\MathAssignment.pdb
